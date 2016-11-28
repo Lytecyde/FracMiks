@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jdk1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jfugue-5.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/lib/jvm/jdk1.8.0_60" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/lib/jvm/jdk1.8.0_60" recursive="false" type="SOURCES" />
+  </library>
+</component>
